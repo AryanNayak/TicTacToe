@@ -1,4 +1,4 @@
-# TicTakToe
+# TicTacToe
 
 
 Hosted: [Link](https://ticktaktoe.netlify.app/)
